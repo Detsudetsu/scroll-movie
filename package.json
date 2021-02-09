@@ -1,0 +1,22 @@
+{
+  "name": "scroll-movie",
+  "version": "1.0.0",
+  "description": "scroll-based animation page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Detsudetsu/scroll-movie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Detsudetsu/scroll-movie/issues"
+  },
+  "homepage": "https://github.com/Detsudetsu/scroll-movie#readme",
+  "dependencies": {
+    "gsap": "^3.6.0"
+  }
+}
