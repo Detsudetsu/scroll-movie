@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Detsudetsu/scroll-movie#readme",
   "dependencies": {
-    "gsap": "^3.6.1"
+    "gsap": "^3.7.0"
   },
   "devDependencies": {
     "gh-pages": "^3.2.1",
